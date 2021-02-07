@@ -1,2 +1,4 @@
 # C_Exercises
-Exercises to practice C
+Exercises' solution. from:
+- Luis Damas - "Linguagem C"
+- Deitel & Deitel - "C How To Program" 
